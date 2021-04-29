@@ -1,0 +1,2 @@
+.main{display:flex;flex-direction:row}.w-content,.w-content-small{display:flex;flex-direction:column}.main{width:100%;background-color:#000;height:100%;justify-content:space-around}.bottom,.middle,.top{border:1px solid #232323;border-radius:5px}.w-content{width:calc(60% - 10px)}.w-content,.w-content-small{justify-content:space-between}.w-content-small{width:calc(20% - 10px)}.top{height:calc(12% - 5px)}.middle,.top{width:calc(100% - 5px)}.middle{height:calc(46% - 5px)}.bottom{width:calc(100% - 5px);height:calc(42% - 5px)}
+/*# sourceMappingURL=main.952a7fa1.chunk.css.map */
