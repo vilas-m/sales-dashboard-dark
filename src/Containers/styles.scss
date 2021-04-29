@@ -1,0 +1,56 @@
+$full-width: 100%;
+$full-height: 100%;
+$background: #000000;
+
+%flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+%flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  @extend %flex-row;
+  width: $full-width;
+  background-color: $background;
+  height: $full-height;
+  justify-content: space-around;
+}
+
+%border {
+  border: 1px solid #232323;
+  border-radius: 5px;
+}
+
+.w-content {
+  @extend %flex-column;
+  width: calc(60% - 10px);
+  justify-content: space-between;
+}
+
+.w-content-small {
+  @extend %flex-column;
+  width: calc(20% - 10px);
+  justify-content: space-between;
+}
+
+.top {
+  @extend %border;
+  width: calc(100% - 5px);
+  height: calc(12% - 5px);
+}
+
+.middle {
+  @extend %border;
+  width: calc(100% - 5px);
+  height: calc(46% - 5px);
+}
+
+.bottom {
+  @extend %border;
+  width: calc(100% - 5px);
+  height: calc(42% - 5px);
+}
