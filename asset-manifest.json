@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/vilas-m/sales-dashboard-dark/static/css/main.952a7fa1.chunk.css",
-    "main.js": "/vilas-m/sales-dashboard-dark/static/js/main.33d9a528.chunk.js",
-    "main.js.map": "/vilas-m/sales-dashboard-dark/static/js/main.33d9a528.chunk.js.map",
-    "runtime-main.js": "/vilas-m/sales-dashboard-dark/static/js/runtime-main.439d9f1a.js",
-    "runtime-main.js.map": "/vilas-m/sales-dashboard-dark/static/js/runtime-main.439d9f1a.js.map",
-    "static/js/2.0f201ac3.chunk.js": "/vilas-m/sales-dashboard-dark/static/js/2.0f201ac3.chunk.js",
-    "static/js/2.0f201ac3.chunk.js.map": "/vilas-m/sales-dashboard-dark/static/js/2.0f201ac3.chunk.js.map",
-    "static/js/3.a829725a.chunk.js": "/vilas-m/sales-dashboard-dark/static/js/3.a829725a.chunk.js",
-    "static/js/3.a829725a.chunk.js.map": "/vilas-m/sales-dashboard-dark/static/js/3.a829725a.chunk.js.map",
+    "main.css": "/vilas-m/sales-dashboard-dark/static/css/main.5f2364b5.chunk.css",
+    "main.js": "/vilas-m/sales-dashboard-dark/static/js/main.b99f170c.chunk.js",
+    "main.js.map": "/vilas-m/sales-dashboard-dark/static/js/main.b99f170c.chunk.js.map",
+    "runtime-main.js": "/vilas-m/sales-dashboard-dark/static/js/runtime-main.7c999a62.js",
+    "runtime-main.js.map": "/vilas-m/sales-dashboard-dark/static/js/runtime-main.7c999a62.js.map",
+    "static/js/2.14468346.chunk.js": "/vilas-m/sales-dashboard-dark/static/js/2.14468346.chunk.js",
+    "static/js/2.14468346.chunk.js.map": "/vilas-m/sales-dashboard-dark/static/js/2.14468346.chunk.js.map",
+    "static/js/3.fa0fb168.chunk.js": "/vilas-m/sales-dashboard-dark/static/js/3.fa0fb168.chunk.js",
+    "static/js/3.fa0fb168.chunk.js.map": "/vilas-m/sales-dashboard-dark/static/js/3.fa0fb168.chunk.js.map",
     "index.html": "/vilas-m/sales-dashboard-dark/index.html",
-    "static/css/main.952a7fa1.chunk.css.map": "/vilas-m/sales-dashboard-dark/static/css/main.952a7fa1.chunk.css.map",
-    "static/js/2.0f201ac3.chunk.js.LICENSE.txt": "/vilas-m/sales-dashboard-dark/static/js/2.0f201ac3.chunk.js.LICENSE.txt"
+    "static/css/main.5f2364b5.chunk.css.map": "/vilas-m/sales-dashboard-dark/static/css/main.5f2364b5.chunk.css.map",
+    "static/js/2.14468346.chunk.js.LICENSE.txt": "/vilas-m/sales-dashboard-dark/static/js/2.14468346.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.439d9f1a.js",
-    "static/js/2.0f201ac3.chunk.js",
-    "static/css/main.952a7fa1.chunk.css",
-    "static/js/main.33d9a528.chunk.js"
+    "static/js/runtime-main.7c999a62.js",
+    "static/js/2.14468346.chunk.js",
+    "static/css/main.5f2364b5.chunk.css",
+    "static/js/main.b99f170c.chunk.js"
   ]
 }
