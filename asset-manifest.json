@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vilas-m/sales-dashboard-dark/static/css/main.5f2364b5.chunk.css",
-    "main.js": "/vilas-m/sales-dashboard-dark/static/js/main.b99f170c.chunk.js",
-    "main.js.map": "/vilas-m/sales-dashboard-dark/static/js/main.b99f170c.chunk.js.map",
-    "runtime-main.js": "/vilas-m/sales-dashboard-dark/static/js/runtime-main.7c999a62.js",
-    "runtime-main.js.map": "/vilas-m/sales-dashboard-dark/static/js/runtime-main.7c999a62.js.map",
-    "static/js/2.14468346.chunk.js": "/vilas-m/sales-dashboard-dark/static/js/2.14468346.chunk.js",
-    "static/js/2.14468346.chunk.js.map": "/vilas-m/sales-dashboard-dark/static/js/2.14468346.chunk.js.map",
-    "static/js/3.fa0fb168.chunk.js": "/vilas-m/sales-dashboard-dark/static/js/3.fa0fb168.chunk.js",
-    "static/js/3.fa0fb168.chunk.js.map": "/vilas-m/sales-dashboard-dark/static/js/3.fa0fb168.chunk.js.map",
-    "index.html": "/vilas-m/sales-dashboard-dark/index.html",
-    "static/css/main.5f2364b5.chunk.css.map": "/vilas-m/sales-dashboard-dark/static/css/main.5f2364b5.chunk.css.map",
-    "static/js/2.14468346.chunk.js.LICENSE.txt": "/vilas-m/sales-dashboard-dark/static/js/2.14468346.chunk.js.LICENSE.txt"
+    "main.css": "/sales-dashboard-dark/static/css/main.5f2364b5.chunk.css",
+    "main.js": "/sales-dashboard-dark/static/js/main.b99f170c.chunk.js",
+    "main.js.map": "/sales-dashboard-dark/static/js/main.b99f170c.chunk.js.map",
+    "runtime-main.js": "/sales-dashboard-dark/static/js/runtime-main.fef19ca0.js",
+    "runtime-main.js.map": "/sales-dashboard-dark/static/js/runtime-main.fef19ca0.js.map",
+    "static/js/2.14468346.chunk.js": "/sales-dashboard-dark/static/js/2.14468346.chunk.js",
+    "static/js/2.14468346.chunk.js.map": "/sales-dashboard-dark/static/js/2.14468346.chunk.js.map",
+    "static/js/3.fa0fb168.chunk.js": "/sales-dashboard-dark/static/js/3.fa0fb168.chunk.js",
+    "static/js/3.fa0fb168.chunk.js.map": "/sales-dashboard-dark/static/js/3.fa0fb168.chunk.js.map",
+    "index.html": "/sales-dashboard-dark/index.html",
+    "static/css/main.5f2364b5.chunk.css.map": "/sales-dashboard-dark/static/css/main.5f2364b5.chunk.css.map",
+    "static/js/2.14468346.chunk.js.LICENSE.txt": "/sales-dashboard-dark/static/js/2.14468346.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c999a62.js",
+    "static/js/runtime-main.fef19ca0.js",
     "static/js/2.14468346.chunk.js",
     "static/css/main.5f2364b5.chunk.css",
     "static/js/main.b99f170c.chunk.js"
